@@ -22,7 +22,7 @@ namespace IRSequencer.Gui
     {
         public bool guiHidden = false;
 
-        public bool GUIEnabled = true;
+        public bool GUIEnabled = false;
         public bool guiSequenceEditor = false;
         private bool isReady = false;
 
